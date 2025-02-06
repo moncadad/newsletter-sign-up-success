@@ -14,7 +14,6 @@ This is a solution to the [Newsletter sign-up form with success message challeng
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -62,9 +61,8 @@ I look forward to learning Javacript, but also everything when it comes to web d
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [Resource 1](https://www.geeksforgeeks.org/how-to-validate-email-address-using-regexp-in-javascript/) - Regex Email Validation
+- [Resource 2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) - Helped me break down the code
 ## Author
 
 - Website (coming soon...)
