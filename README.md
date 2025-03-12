@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/newsletter-sign-up-form-with-success-message-h8HEpeczy9)
-- [Live Site URL](https://fancy-mandazi-88dc60.netlify.app/)
+- [Live Site URL](https://heroic-maamoul-5aa583.netlify.app/)
 
 ## My process
 
