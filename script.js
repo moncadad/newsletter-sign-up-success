@@ -52,6 +52,7 @@ function updateValue(e) {
 
 function dismissState() {
   console.log("dismiss message...");
+  input.value = "";
   formContainer.style.display = "flex";
   successContainer.style.display = "none";
 }
